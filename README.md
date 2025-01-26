@@ -39,7 +39,7 @@ The project concludes with actionable insights for businesses, including recomme
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Samruddha13/shopping-trends-analysis.git
+   git clone https://github.com/kmlv05/Identifying-Shopping-Trends-Using-Data-Analysis.git 
    ```
 
 2. Install dependencies:
